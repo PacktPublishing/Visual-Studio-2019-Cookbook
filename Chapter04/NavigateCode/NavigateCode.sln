@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigateCode", "NavigateCode\NavigateCode.csproj", "{C6F250CA-A68E-4EDF-BA4E-A62D6D44B25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHelper", "MathHelper\MathHelper.csproj", "{9A69724C-6410-4A6A-BA62-C2165ADA410A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F250CA-A68E-4EDF-BA4E-A62D6D44B25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F250CA-A68E-4EDF-BA4E-A62D6D44B25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F250CA-A68E-4EDF-BA4E-A62D6D44B25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F250CA-A68E-4EDF-BA4E-A62D6D44B25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A69724C-6410-4A6A-BA62-C2165ADA410A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A69724C-6410-4A6A-BA62-C2165ADA410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A69724C-6410-4A6A-BA62-C2165ADA410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A69724C-6410-4A6A-BA62-C2165ADA410A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFDCAE0-E8E8-4E11-A885-6D9BC4D89AB7}
+	EndGlobalSection
+EndGlobal
